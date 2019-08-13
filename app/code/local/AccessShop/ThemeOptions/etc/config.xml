@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<AccessShop_ThemeOptions>
-			<version>1.0.0</version>
+			<version>1.0.2</version>
 		</AccessShop_ThemeOptions>
 	</modules>
 	<!-- define models and helpers -->
